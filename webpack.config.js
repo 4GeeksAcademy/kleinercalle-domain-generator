@@ -75,7 +75,6 @@ module.exports = {
         template: "src/index.html"
     }),
   
-        failSilently: true
-    }),
+  
   ]
 };
